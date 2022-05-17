@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 [![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner)](https://github.com/hulikner/github-readme-stats)
-![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&count_private=true)
+<!-- ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&count_private=true)
 ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true)
-![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true&theme=radical)
+![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true&theme=radical) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hulikner&repo=github-readme-stats)](https://github.com/hulikner/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner)](https://github.com/hulikner/github-readme-stats)
 <a href="https://github.com/hulikner/github-readme-stats">
