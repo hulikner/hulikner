@@ -11,7 +11,7 @@
 <a href="https://github.com/hulikner/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hulikner&repo=convoychat" />
 </a> -->
-[![hulikner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hulikner)](https://github.com/hulikner/github-readme-stats)
+![hulikner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hulikner)](https://github.com/hulikner/github-readme-stats)
 
 <!--
 **hulikner/hulikner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
