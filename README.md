@@ -1,10 +1,10 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner&center&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner&align=center&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
 
 
 
 
-[![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&center&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
+[![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&align=center&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
 <!-- ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&count_private=true)
 ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true)
 ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true&theme=radical) -->
