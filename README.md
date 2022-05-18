@@ -8,6 +8,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&color=black&color=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+Derick Cravens
+===============================
+
+Software Developer
+------------------
+
+Started Full Stack Development in February 2022
+
+*   🌍  I'm based in Murfreesboro, TN
+*   ✉️  You can contact me at [hulikner@gmail.com](mailto:hulikner@gmail.com)
+*   🧠  I'm learning C#/.NET
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
 
