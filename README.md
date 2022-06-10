@@ -20,7 +20,7 @@ Started Full Stack Development in February 2022
 *   ✉️  You can contact me at [hulikner@gmail.com](mailto:hulikner@gmail.com)
 *   🧠  I'm learning C#/.NET
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats) -->
 
 
 
