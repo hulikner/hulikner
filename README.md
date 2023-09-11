@@ -24,7 +24,6 @@ Started Full Stack Development in February 2022
 
 
 
-[![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
 <!-- ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&count_private=true)
 ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true)
 ![hulikner's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulikner&show_icons=true&theme=radical) -->
